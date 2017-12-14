@@ -1,0 +1,41 @@
+* {
+  background-color: #000;
+  font-family: Verdana, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: normal;
+  color: #fff;
+  margin: 8px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+.download {
+  color: #7fffd4;
+}
+
+p {
+  font-size: 21px;
+  color: #808080;
+}
+
+.footer {
+  float: right;
+}
+
+.footer,
+img,
+p {
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
+
+h2 {
+  margin-top: 34px;
+  margin-bottom: 34px;
+}
